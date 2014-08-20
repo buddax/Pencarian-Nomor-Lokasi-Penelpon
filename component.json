@@ -1,0 +1,8 @@
+{
+  "name": "normalize.css",
+  "repo": "buddax/normalize.css",
+  "version": "7.1.0",
+  "styles": ["normalize.css"],
+  "author": "Berline Libra",
+  "license": "TCH"
+}
