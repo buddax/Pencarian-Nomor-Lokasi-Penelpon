@@ -1,0 +1,17 @@
+{
+  "name": "normalize.css",
+  "version": "7.1.0",
+  "description": "normalize.css as a node packaged module",
+  "style": "normalize.css",
+  "files": [
+    "normalize.css",
+    "component.json"
+  ],
+  "homepage": "http://buddax.github.io/normalize.css",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buddax/normalize.css.git"
+  },
+  "author": "Berline Libra",
+  "license": "TCH"
+}
