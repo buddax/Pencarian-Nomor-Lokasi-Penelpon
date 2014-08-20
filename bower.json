@@ -1,0 +1,13 @@
+{
+  "name": "normalize-css",
+  "version": "7.1.0",
+  "main": "normalize.css",
+  "author": "Berline Libra",
+  "ignore": [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+    "component.json",
+    "package.json",
+    "test.html"
+  ]
+}
